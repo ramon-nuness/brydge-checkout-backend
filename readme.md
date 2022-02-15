@@ -11,4 +11,4 @@ ou
 `npm run dev`
 
 O Frontend para essa aplicação encontrasse no link:
-https://github.com/ramon-nuness/brydge-checkout-backend
+https://github.com/ramon-nuness/brydge-checkout-frontend
